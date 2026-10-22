@@ -1,4 +1,12 @@
-## Hi there 👋
+
+<div align="center">
+  <img
+    src="./Neon%20Retro%20Arcade%20Developer%20Den.png"
+    alt="Vanessa Teixeira - Arcade GitHub Banner"
+    width="100%"
+  />
+</div>
+
 
 <!--
 **vanessateixeira92/vanessateixeira92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
