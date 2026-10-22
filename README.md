@@ -82,6 +82,25 @@ I enjoy combining creativity, problem-solving and technology to build meaningful
 -->
 
 
+---
+
+<h2>📡 04 — CONNECT PLAYER</h2>
+
+<div align="center">
+
+  <p>Have a project in mind or want to connect?</p>
+
+  <p>
+    <a href="https://www.linkedin.com/in/vanessa-teixeira-587514175/">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="https://github.com/vanessateixeira92">
+      <img src="https://img.shields.io/badge/GitHub-Explore-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    </a>
+  </p>
+
+  <p><strong>★ GAME ON. THE NEXT LEVEL STARTS HERE. ★</strong></p>
+
 </div>
 
 
