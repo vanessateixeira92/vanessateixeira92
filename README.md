@@ -45,6 +45,43 @@ I enjoy combining creativity, problem-solving and technology to build meaningful
 
 **✨ NEW SKILLS. NEW LEVELS. ✨**
 
+
+<hr>
+
+<h2>🕹️ 03 — SELECT YOUR MISSION</h2>
+<h3>🚧 LEVEL UNDER CONSTRUCTION</h3>
+
+<!--
+<div align="center">
+
+  <h3>🎮 MISSION 01 — NIMBUSLY</h3>
+
+  <a href="https://nimbusly-app.netlify.app/">
+    <img src="./nimbusly.png"
+         alt="Nimbusly Weather App"
+         width="650">
+  </a>
+
+  <p>
+    A responsive weather application built with React,
+    featuring real-time weather conditions, a five-day
+    forecast and location-based time zones.
+  </p>
+
+  <p>
+    <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
+    <img src="https://img.shields.io/badge/Weather_API-6D28D9?style=flat-square" alt="Weather API">
+  </p>
+
+  <a href="https://nimbusly-app.netlify.app/">
+    ▶ PLAY DEMO
+  </a>
+
+</div>
+-->
+
+
 </div>
 
 
