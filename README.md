@@ -21,3 +21,30 @@ I enjoy combining creativity, problem-solving and technology to build meaningful
 
 **🎯 CURRENT MISSION:** Keep learning. Keep building.
 
+
+---
+
+## ⚡ 02 — SKILLS UNLOCKED
+
+<div align="center">
+
+### 🎮 Front-End Development
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap&theme=dark" alt="Front-End Skills" />
+
+### 🛠️ Tools & Technologies
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" alt="Development Tools" />
+
+### 🚀 Additional Experience
+
+![Salesforce](https://img.shields.io/badge/Salesforce_Commerce_Cloud-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+
+<br>
+
+**✨ NEW SKILLS. NEW LEVELS. ✨**
+
+</div>
+
+
