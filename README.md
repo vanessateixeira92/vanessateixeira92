@@ -45,11 +45,15 @@ I enjoy combining creativity, problem-solving and technology to build meaningful
 
 **✨ NEW SKILLS. NEW LEVELS. ✨**
 
+</div>
 
-<hr>
+---
 
-<h2>🕹️ 03 — SELECT YOUR MISSION</h2>
-<h3>🚧 LEVEL UNDER CONSTRUCTION</h3>
+## 🕹️ 03 — SELECT YOUR MISSION
+
+<div align="center">
+### 🚧 LEVEL UNDER CONSTRUCTION
+</div>
 
 <!--
 <div align="center">
@@ -80,11 +84,11 @@ I enjoy combining creativity, problem-solving and technology to build meaningful
 
 </div>
 -->
-
+</div>
 
 ---
 
-<h2>📡 04 — CONNECT PLAYER</h2>
+## 📡 04 — CONNECT PLAYER
 
 <div align="center">
 
